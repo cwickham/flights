@@ -1,5 +1,8 @@
 library(plyr)
 
+# original code from Hadley Wickham
+# updated by Charlotte Wickham Apr 2014
+
 base <- "http://www.transtats.bts.gov/Download/On_Time_On_Time_Performance_"
 year <- 1993:2013
 month <- 1:12

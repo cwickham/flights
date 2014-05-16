@@ -1,4 +1,6 @@
 library(plyr)
+# original code from Hadley Wickham
+# updated by Charlotte Wickham Apr 2014
 
 # next time use originairportId and destairportid
 
